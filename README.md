@@ -32,17 +32,17 @@ Developed a visually engaging dashboard to present the key insights discovered i
 
 A statistical summary of OCD patients featuring line charts tracking diagnosis dates, KPI cards highlighting obsession and compulsion scores with key aggregates, and a distribution chart illustrating the percentage of patients across various OCD severity levels. 
 <!--![Overview Page](Images\overview.png){width=30%}-->
-<img src="Images\overview.png" width="200"/>
+<img src="Images\overview.png" width="500"/>
 
 #### OCD Patient Demographics
 
 Insights into the Education level, Marital status, Ethicity and Gender of the OCD Patients. 
-<img src="Images\patient_demographics.png" width="130"/>
+<img src="Images\patient_demographics.png" width="500"/>
 
 #### OCD Patient Clinical Diagnosis 
 
 Highlights the Risk Factors and Common causes and types of Obsession-Compulsion disorders.  
-<img src="Images\patient_diagnosis.png" width="250"/>
+<img src="Images\patient_diagnosis.png" width="500"/>
 
 ### Preview
 
